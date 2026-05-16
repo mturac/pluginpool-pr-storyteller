@@ -1,3 +1,5 @@
+![hero](./assets/hero.svg)
+
 # pr-storyteller
 
 **Stop writing PR descriptions from a blank cursor. Generate a real one in seconds.**
