@@ -86,6 +86,10 @@ Claude turns that into:
 - Handles empty diffs and non-git directories gracefully (returns empty JSON).
 - Binary files surface via `git diff --numstat` and are reported with `-` for additions/deletions.
 
+## Examples
+
+Step-by-step walkthroughs with real input fixtures and the helper's actual output live in [`examples/`](./examples/README.md). Three or four scenarios per plugin — from the happy path to the edge cases the test suite guards.
+
 ## Part of the pluginpool family
 
 Ten focused Claude Code plugins for everyday productivity:
